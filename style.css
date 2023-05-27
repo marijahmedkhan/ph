@@ -1,0 +1,71 @@
+#mj{
+    
+    background-color: rgb(50, 247, 33);
+   height: 40px;
+   
+}
+#ab{
+    padding-left: 40%; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+#a{
+    background-color: hsla(350, 88%, 61%, 0.9);
+     height:30px ;
+}
+#b{
+    background-color: hsla(350, 88%, 61%, 0.8); 
+    height:30px
+}
+#c{
+    background-color:  hsla(350, 88%, 61%, 0.7);
+    height:30px
+}
+#d{
+    background-color:  hsla(350, 88%, 61%, 0.6);
+    height:30px
+}
+#e{
+    background-color:  hsla(350, 88%, 61%, 0.5);
+    height:30px
+}
+#f{
+    background-color:  hsla(350, 88%, 61%, 0.4);
+    height:30px
+}
+#g{
+    background-color:  hsla(350, 88%, 61%, 0.3);
+    height:30px
+}
+#h{
+    background-color: rgb(248, 245, 61);
+    height:30px
+}
+#i{
+    background-color:  hsla(199, 93%, 63%, 0.3);
+    height:30px
+}
+#j{
+    background-color:  hsla(199, 93%, 63%, 0.4);
+    height:30px
+}
+#k{
+    background-color:  hsla(199, 93%, 63%, 0.5);
+    height:30px
+}
+#l{
+    background-color:  hsla(199, 93%, 63%, 0.6);
+    height:30px
+}
+#m{
+    background-color: hsla(199, 93%, 63%, 0.7);
+    height:30px
+}
+#n{
+    background-color:  hsla(199, 93%, 63%, 0.8);
+    height:30px
+}
+#o{
+    background-color:hsl(199, 93%, 63%);
+    height:30px
+}
+
